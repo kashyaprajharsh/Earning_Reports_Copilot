@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langsmith
+google-generativeai
+langchain-google-genai
+langchain-pinecone
+python-dotenv
+langkit[all]
